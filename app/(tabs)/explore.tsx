@@ -1,4 +1,4 @@
-import { useImageColors } from "@/hooks/useGetColors";
+import { useImageColors } from "@/hooks/useImageColors";
 import { Image, View } from "react-native";
 import LinearGradient from "react-native-linear-gradient";
 
